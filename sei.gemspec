@@ -35,7 +35,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "minitest", "~> 5.0"
   
   spec.add_runtime_dependency 'gem_config', '~> 0'
-  spec.add_runtime_dependency 'savon', '~> 0'
+  spec.add_runtime_dependency 'savon'
   spec.add_runtime_dependency 'valuable', '~> 0'
 
 end
